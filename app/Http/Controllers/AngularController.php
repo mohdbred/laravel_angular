@@ -11,6 +11,7 @@ class AngularController extends Controller
      */
     public function serveApp()
     {
+        
         return view('index');
     }
 
